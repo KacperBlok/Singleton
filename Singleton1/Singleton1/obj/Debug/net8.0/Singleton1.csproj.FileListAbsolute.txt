@@ -1,0 +1,14 @@
+C:\Users\Kacper\source\repos\Singleton1\Singleton1\bin\Debug\net8.0\Singleton1.exe
+C:\Users\Kacper\source\repos\Singleton1\Singleton1\bin\Debug\net8.0\Singleton1.deps.json
+C:\Users\Kacper\source\repos\Singleton1\Singleton1\bin\Debug\net8.0\Singleton1.runtimeconfig.json
+C:\Users\Kacper\source\repos\Singleton1\Singleton1\bin\Debug\net8.0\Singleton1.dll
+C:\Users\Kacper\source\repos\Singleton1\Singleton1\bin\Debug\net8.0\Singleton1.pdb
+C:\Users\Kacper\source\repos\Singleton1\Singleton1\obj\Debug\net8.0\Singleton1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\Singleton1\Singleton1\obj\Debug\net8.0\Singleton1.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\Singleton1\Singleton1\obj\Debug\net8.0\Singleton1.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\Singleton1\Singleton1\obj\Debug\net8.0\Singleton1.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\Singleton1\Singleton1\obj\Debug\net8.0\Singleton1.dll
+C:\Users\Kacper\source\repos\Singleton1\Singleton1\obj\Debug\net8.0\refint\Singleton1.dll
+C:\Users\Kacper\source\repos\Singleton1\Singleton1\obj\Debug\net8.0\Singleton1.pdb
+C:\Users\Kacper\source\repos\Singleton1\Singleton1\obj\Debug\net8.0\Singleton1.genruntimeconfig.cache
+C:\Users\Kacper\source\repos\Singleton1\Singleton1\obj\Debug\net8.0\ref\Singleton1.dll
